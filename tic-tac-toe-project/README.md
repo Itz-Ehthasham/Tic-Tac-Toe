@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+# Tic-Tac-Toe Game or People also call it as X,O Game
 
 A modern, interactive Tic-Tac-Toe game built with React and Vite. This project demonstrates React fundamentals including state management, component composition, and event handling.
 
